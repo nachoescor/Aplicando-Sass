@@ -1,0 +1,50 @@
+
+body {
+    text-align: center;
+    background-color: rgb(240, 206, 212);
+}
+
+.logoNav{
+    width: 40%;
+    height: 30%;
+    
+    padding: 2px;
+}
+
+.logo{
+    width: 50%;
+    height: 40%;
+    
+    padding: 10px;
+}
+
+.carousel{
+    width: 100%;
+    height: 20%;
+    text-align: center;
+    align-items: center;
+}
+
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 500%;
+    color: pink;
+    -webkit-text-stroke: 1px rgb(94, 85, 85);
+}
+
+
+h5 {
+    font-size: 500%;
+}
+
+
+img  {
+    width: 90%;
+    height: 80%;
+}
+
+.container { 
+    align-items: center;
+    text-align: center;
+}
